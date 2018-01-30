@@ -1,9 +1,4 @@
 queens
 =====
 
-An OTP library
-
-Build
------
-
-    $ rebar3 compile
+https://www.hackerrank.com/challenges/super-queens-on-a-chessboard
