@@ -1,6 +1,7 @@
 .eunit
 deps
 *.o
+_build/
 *.beam
 *.plt
 erl_crash.dump
