@@ -3,4 +3,5 @@
 -include_lib("eunit/include/eunit.hrl").
 
 queens_test() ->
-    ?assertEqual(4, queens(10)).
+    ?assertEqual(4, queens(10)),
+    ?assertEqual(1876, queens(13)).
